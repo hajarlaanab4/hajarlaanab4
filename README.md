@@ -21,7 +21,7 @@
 
 **DevoOps**
 
-'Maven'  'Azure' 'Gitlab' 'Github'
+'Maven' .  'Azure' . 'Gitlab' . 'Github'
 
 ---
 
