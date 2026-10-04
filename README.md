@@ -3,7 +3,7 @@
 **Data Analyst focused on data analysis & visualization**, with a software engineering background in Java/Spring.
 I collect, clean and analyze data, then turn it into clear dashboards and actionable insights.
 
-- 🎓 M2 Data Science & Management de l'Innovation (DSMI), Université Jean Monnet, Saint-Étienne
+- 🎓 M2 Data Science & Management de l'Innovation (DSMI)
 - 🛠️ Engineering degree, Information Systems & Digital Transformation
 - 🔍 Looking for a **Data Analyst / Data Scientist internship**
 
